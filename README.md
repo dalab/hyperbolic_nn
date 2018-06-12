@@ -1,4 +1,4 @@
 # hyperbolic_nn
 Hyperbolic Neural Networks
 
-Code coming soon!
+Code coming soon (before 18th of June) !
