@@ -1,7 +1,7 @@
 # [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112)
 ### Python source code
 
-We recommend reading [our blog](http://www.hyperbolicdeeplearning.com/) for an introduction to hyperbolic neural networks. Other related material can be accessed [here](http://people.inf.ethz.ch/ganeao/).
+We recommend reading [our blog](http://www.hyperbolicdeeplearning.com/) for an introduction to hyperbolic neural networks. Other related material can be accessed [here](https://people.csail.mit.edu/oct).
 
 
 1. Prerequisites:
