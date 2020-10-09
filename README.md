@@ -30,10 +30,11 @@ The data needed in this code lives in the *_dataset folders and was generated as
 ## References
 If you find this code useful for your research, please cite the following paper in your publication:
 ```
-@article{ganea2018hyperbolic,
-  title={Hyperbolic Neural Networks},
-  author={Ganea, Octavian-Eugen and B{\'e}cigneul, Gary and Hofmann, Thomas},
-  journal={arXiv preprint arXiv:1805.09112},
+@inproceedings{ganea2018hyperbolic,
+  title={Hyperbolic neural networks},
+  author={Ganea, Octavian and B{\'e}cigneul, Gary and Hofmann, Thomas},
+  booktitle={Advances in neural information processing systems},
+  pages={5345--5355},
   year={2018}
 }
 ```
